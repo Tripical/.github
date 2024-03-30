@@ -1,3 +1,5 @@
+![Tripical Vietnam Logo](<https://tripical.vn/_next/image?url=%2Fassets%2Fimages%2Flogo%2Ftripical.png&w=256&q=85>)
+
 ## TRIPICAL VIETNAM LLC - Công ty TNHH Tripical Việt Nam 👋
 
 **Welcome to the Tripical Project**
